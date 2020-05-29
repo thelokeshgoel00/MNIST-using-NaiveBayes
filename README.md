@@ -6,3 +6,6 @@ I have used Gaussian Naive Bayes and Multinomial Naive Bayes provided by Scipy
 - MatplotLib
 - Numpy(v4+)
 - Scipy/SKlearn
+## Results
+- 81%+ accuracy using Gaussian Naive Bayes
+- 87%+ accuracy using Multinomial Naive Bayes
